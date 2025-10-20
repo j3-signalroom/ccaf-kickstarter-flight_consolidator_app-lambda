@@ -55,7 +55,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "aws-clients-python-lib", specifier = "==0.10.0.0" },
-    { name = "confluent-flink-table-api-python-plugin", specifier = ">=1.20.50" },
+    { name = "confluent-flink-table-api-python-plugin", specifier = "==1.20.56" },
     { name = "setuptools", specifier = ">=65.5.1" },
 ]
 

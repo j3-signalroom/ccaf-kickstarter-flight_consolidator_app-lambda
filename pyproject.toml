@@ -9,6 +9,6 @@ authors = [
 requires-python = "~=3.11.9"
 dependencies = [
     "aws-clients-python-lib==0.10.0.0",
-    "confluent-flink-table-api-python-plugin>=1.20.50",
+    "confluent-flink-table-api-python-plugin==1.20.56",
     "setuptools>=65.5.1",
 ]
