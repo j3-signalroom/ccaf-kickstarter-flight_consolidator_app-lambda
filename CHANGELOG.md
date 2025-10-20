@@ -9,6 +9,7 @@ The format is base on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), 
 - Issue [#139](https://github.com/j3-signalroom/ccaf-kickstarter-flight_consolidator_app-lambda/issues/139).
 - Issue [#141](https://github.com/j3-signalroom/ccaf-kickstarter-flight_consolidator_app-lambda/issues/141).
 - Issue [#142](https://github.com/j3-signalroom/ccaf-kickstarter-flight_consolidator_app-lambda/issues/142).
+- Issue [#146](https://github.com/j3-signalroom/ccaf-kickstarter-flight_consolidator_app-lambda/issues/146).
 
 ### Changed
 - Issue [#128](https://github.com/j3-signalroom/ccaf-kickstarter-flight_consolidator_app-lambda/issues/128).
