@@ -44,7 +44,7 @@ To illustrate this approach, I’m leveraging the [Apache Flink Kickstarter Flin
 
 ### 2.1 Start with the Code
 
-If you'd like to dive straight into the code, you can find the full implementation in my [GitHub repo](https://github.com/j3-signalroom/ccaf_kickstarter-flight_consolidator_app-lambda). Otherwise, buckly up, and I'll guide you through the code step-by-step as follows:
+If you'd like to dive straight into the code, you can find the full implementation in my [GitHub repo](https://github.com/j3-signalroom/ccaf-kickstarter-flight_consolidator_app-lambda). Otherwise, buckly up, and I'll guide you through the code step-by-step as follows:
 
 #### 2.1.1 This is a Python based Flink App
 
@@ -1033,4 +1033,4 @@ The numbers correspond to the sections in this blog post:
 
 [Flink Applications Powered by Python on Confluent Cloud for Apache Flink (CCAF)](https://github.com/j3-signalroom/apache_flink-kickstarter/blob/main/ccaf/README.md)
 
-[Confluent Cloud for Apache Flink (CCAF) Flight Consolidator App Lambda](https://github.com/j3-signalroom/ccaf_kickstarter-flight_consolidator_app-lambda)
+[Confluent Cloud for Apache Flink (CCAF) Flight Consolidator App Lambda](https://github.com/j3-signalroom/ccaf-kickstarter-flight_consolidator_app-lambda)

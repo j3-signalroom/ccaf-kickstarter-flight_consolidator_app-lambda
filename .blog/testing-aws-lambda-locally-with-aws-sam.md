@@ -49,11 +49,11 @@ This YAML defines a resource for deployment using AWS SAM (Serverless Applicatio
 The `Metadata` section provides additional information to guide the SAM deployment process. It includes:
 1. **`Dockerfile`**:
    - Specifies the path to the Dockerfile for building the container image:  
-     `/Users/jeffreyjonathanjennings/j3/code_spaces/ccaf_kickstarter-flight_consolidator_app-lambda/Dockerfile`.
+     `/Users/jeffreyjonathanjennings/j3/code_spaces/ccaf-kickstarter-flight_consolidator_app-lambda/Dockerfile`.
 
 2. **`DockerContext`**:
    - Points to the directory containing the application source code, Dockerfile, and other relevant files:  
-     `/Users/jeffreyjonathanjennings/j3/code_spaces/ccaf_kickstarter-flight_consolidator_app-lambda`.
+     `/Users/jeffreyjonathanjennings/j3/code_spaces/ccaf-kickstarter-flight_consolidator_app-lambda`.
 
 3. **`DockerTag`**:
    - Sets the tag for the Docker image as `Latest`. This is a common tag for identifying the most recent build of the image.

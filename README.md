@@ -56,14 +56,14 @@ Take care of the cloud and local environment prequisities listed below:
 
 #### **1.1.1 Clone the repo**
 ```bash
-git clone https://github.com/j3-signalroom/ccaf_kickstarter-flight_consolidator_app-lambda.git
+git clone https://github.com/j3-signalroom/ccaf-kickstarter-flight_consolidator_app-lambda.git
 ```
 
 #### **1.1.2 Navigate to the Root Directory**
-Open your Terminal and navigate to the root folder of the `ccaf_kickstarter-flight_consolidator_app-lambda/` repository that you have cloned. You can do this by executing:
+Open your Terminal and navigate to the root folder of the `ccaf-kickstarter-flight_consolidator_app-lambda/` repository that you have cloned. You can do this by executing:
 
 ```bash
-cd path/to/ccaf_kickstarter-flight_consolidator_app-lambda/
+cd path/to/ccaf-kickstarter-flight_consolidator_app-lambda/
 ```
 
    Replace `path/to/` with the actual path where your repository is located.
